@@ -6,3 +6,4 @@ langchain
 langchain_community
 google-generativeai
 flask
+gunicorn
